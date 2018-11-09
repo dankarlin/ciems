@@ -1,20 +1,20 @@
 # ----
 # Site
 
-title: Cause Template
-url: https://clean-oryx.cloudvent.net
+title: CIEMS
+url: https://ciems.org
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a not-for-profit organisation.
+description: The Center for International Emergency Medical Services (CIEMS) is a 501(c)(3) nonprofit organization based in Colorado, Boston, and New York that was formed in 2006 for the purpose of improving emergency services systems worldwide.
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: ciemsorg
 social:
-  name: Cause Template
+  name: CIEMS
   links:
     - https://github.com/CloudCannon/cause-jekyll-template
 
